@@ -11,7 +11,7 @@ class Header extends Component{
         return(
             <div className={[styles.divHeaderWrapper].join(" ")}>
                 <div className={[styles.header, commonStyle.siteWrapper].join(" ")}>
-                    <h1 className={styles.headerTitle}>My Test Website</h1>
+                    <h1 className={styles.headerTitle}>My Website</h1>
                     <nav className={styles.headerNav}>
                         <ul className={styles.headerUl}>
                             <li className={styles.headerLi}><a className={styles.headerA} href="#">Register</a></li>

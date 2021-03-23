@@ -1,0 +1,11 @@
+.footerDiv{
+    color: orange;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.footerWrapper{
+    background: rgb(2, 48, 71);
+    margin-top: 10px;
+}
